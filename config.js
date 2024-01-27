@@ -52,8 +52,8 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.botname = 'Zenitsu '
 global.premium = 'true'
-global.packname = 'Zenitsu' 
-global.author = '@AsHu' 
+global.packname = 'GURU┃ᴮᴼᵀ' 
+global.author = '@Asliguru' 
 global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
 global.dygp = 'https://chat.whatsapp.com/BFfD1C0mTDDDfVdKPkxRAA'
